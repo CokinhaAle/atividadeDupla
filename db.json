@@ -1,0 +1,331 @@
+{
+    "produtos": [
+        {
+            "id": "1",
+            "modelo": "Jordan 1 Retro Low OG SP",
+            "nome": "Travis Scott Reverse Mocha",
+            "linkImgBase": "https://images.stockx.com/360/Air-Jordan-1-Retro-Low-OG-SP-Travis-Scott-Reverse-Mocha/Images/Air-Jordan-1-Retro-Low-OG-SP-Travis-Scott-Reverse-Mocha/Lv2/img01.jpg?fm=webp&auto=compress&w=576&dpr=1&updated_at=1662135192&h=384&q=57%201x,%20",
+            "style": "DM7866-162",
+            "colorway": "SAIL/UNIVERSITY RED-RIDGEROCK",
+            "retailPrice": "150",
+            "price": "1,135",
+            "releaseDate": "07/21/2022",
+            "includedAccessories": "RED EXTRA LACES, WHITE EXTRA LACESBROWN EXTRA LACES, SPECIAL PAPER",
+            "productDescription": ["Acenando para o Air Jordan 1 High Travis Scott Mocha, o Air Jordan 1 Low Travis Scott Reverse Mocha oferece uma paleta semelhante ao Mocha e off-white, mas em uma paleta de cores de estilo reverso. Sua parte superior é construída com uma base Mocha Durabuck, sobreposições de couro branco e Swooshes reversos exclusivos. Toques de vermelho no logotipo da Wings bordados no calcanhar e na etiqueta da língua trançada dão um contraste nítido ao visual neutro do design. A partir daí, uma sola Air amarelada adiciona uma sensação vintage.", "O Air Jordan 1 Low Travis Scott Reverse Mocha foi lançado em julho de 2022 e vendido por $ 190."],
+            "category": "sneaker",
+            "tags": [
+                "nike",
+                "jordan",
+                "jordan 1",
+                "jordan 1 high",
+                "travis scott",
+                "cactus jack",
+                "reverse mocha"
+            ]
+        },
+        {
+            "id": "2",
+            "modelo": "Jordan 1 High OG",
+            "nome": "Spider-Man Across the Spider-Verse",
+            "linkImgBase": "https://images.stockx.com/360/Air-Jordan-1-High-OG-Spider-Man-Across-the-Spider-Verse/Images/Air-Jordan-1-High-OG-Spider-Man-Across-the-Spider-Verse/Lv2/img01.jpg?fm=avif&auto=compress&w=480&dpr=1&updated_at=1683569460&h=320&q=57",
+            "style": "DV1748-601",
+            "price": "240",
+            "colorway": "UNIVERSITY RED/BLACK/WHITE",
+            "retailPrice": "200",
+            "releaseDate": "05/20/2023",
+            "productDescription": ["A Nike e a Jordan Brand estão retornando ao Spider-Verse para seu segundo Air Jordan 1 com o tema do Homem-Aranha, com o lançamento do Air Jordan 1 High OG Spider-Man Across the Spider-Verse.", "Também conhecido como o próximo capítulo, o Jordan 1 High OG Spider-Man Across the Spider-Verse é a próxima iteração de combinação de cores do original Air Jordan 1 Chicago. Os tênis de edição limitada são construídos com vários couros, camurças e outros materiais premium na parte superior. Os padrões usados ​​nos tênis são projetados para imitar o estilo de animação Miles Morales/Homem-Aranha.", "O Air Jordan 1 High OG Spider-Man Across the Spider-Verse foi lançado em 20 de maio de 2023, com um preço de varejo de $ 200."],
+            "category": "sneaker",
+            "tags": [
+                "nike",
+                "jordan",
+                "jordan 1",
+                "jordan 1 high",
+                "spider man",
+                "chicago"
+            ]
+        },
+        {
+            "id": "3",
+            "modelo": "Nike Dunk Low Retro",
+            "nome": "White Black Panda (2021)",
+            "linkImgBase": "https://images.stockx.com/360/Nike-Dunk-Low-Retro-White-Black-2021/Images/Nike-Dunk-Low-Retro-White-Black-2021/Lv2/img01.jpg?fm=avif&auto=compress&w=576&dpr=1&updated_at=1644250003&h=384&q=57",
+            "style": "DD1391-100",
+            "price": "118",
+            "colorway": "WHITE/BLACK",
+            "retailPrice": "110",
+            "releaseDate": "03/10/2021",
+            "productDescription": ["Desde o College Colors Program com espírito escolar até a vibrante coleção Nike CO.JP, o Nike Dunks viu muitas cores desde o início do design em 1985. Mas com cada nova cor, o clássico bloqueio de cores do Dunk permaneceu em alguma capacidade. A Nike colocou seu bloqueio de cores atemporal para trabalhar com o Nike Dunk Low Retro White Black.", "A parte superior do Nike Dunk Low Retro White Black é feita de couro branco com sobreposições de couro preto e Swooshes. A marca clássica da Nike é apresentada na língua de náilon, acenando para os elementos de design tradicionais da Dunk. Uma entressola branca e uma sola preta completam o design.","O Nike Dunk Low Retro White Black foi lançado em janeiro de 2021 e vendido por US $ 100."],
+            "category": "sneaker",
+            "tags": ["nike", "dunk", "dunk sp", "dunk sp low", "panda"]
+        },
+        {
+            "id": "4",
+            "modelo": "Jordan 4 Retro",
+            "nome": "Thunder (2023)",
+            "linkImgBase": "https://images.stockx.com/360/Air-Jordan-4-Retro-Thunder-2023/Images/Air-Jordan-4-Retro-Thunder-2023/Lv2/img01.jpg?fm=avif&auto=compress&w=576&dpr=1&updated_at=1680207753&h=384&q=57",
+            "style": "DH6927-017",
+            "price": "235",
+            "colorway": "BLACK/TOUR YELLOW",
+            "retailPrice": "210",
+            "releaseDate": "05/13/2023",
+            "productDescription": ["Pela primeira vez em mais de uma década, o Air Jordan 4 Retro Thunder está de volta e está sendo apresentado como parte da campanha primavera/verão 2023 da marca Jordan.", "A Jordan Brand trouxe de volta esta combinação de cores que é a favorita dos fãs, construída com cabedal de nobuck preto premium com salpicos de Tour Yellow em toda a entressola, ilhós de renda e língua. O icônico logotipo Jumpman de Michael Jordan é colocado na aba do calcanhar, língua e palmilhas dos tênis.","O Air Jordan 4 Retro Thunder (2023) foi lançado em 13 de maio de 2023, com um preço de varejo de $ 210."],
+            "category": "sneaker",
+            "tags": ["nike", "jordan", "jordan 4", "thunder"]
+        },
+        {
+            "id": "5",
+            "modelo": "Nike SB Dunk Low",
+            "nome": "Jarritos",
+            "linkImgBase": "https://images.stockx.com/360/Nike-SB-Dunk-Low-Jarritos/Images/Nike-SB-Dunk-Low-Jarritos/Lv2/img01.jpg?fm=avif&auto=compress&w=576&dpr=1&updated_at=1679995392&h=384&q=57",
+            "style": "FD0860-001",
+            "price": "359",
+            "colorway": "PHANTOM/SAFETY ORANGE/MALACHITE",
+            "retailPrice": "130",
+            "releaseDate": "05/10/2023",
+            "productDescription": ["Os rumores de um projeto de colaboração entre a Nike e a empresa mexicana de bebidas Jarritos começaram inicialmente em 2022 e agora em 2023 estamos vendo a coleção se concretizar, com o lançamento do Nike SB Dunk Low Jarritos.", "O Nike SB Dunk Low Jarritos é construído com couro branco e materiais de lona rasgável na parte superior, enquanto detalhes em verde ajudam a cobrir as solas e o Nike Swoosh. A marca Jarritos é vista nas palmilhas, nas abas do calcanhar e na língua dos tênis. Os tênis de edição limitada vêm com cadarços laranja, verde e branco.","O Nike SB Dunk Low Jarritos foi lançado em 10 de maio de 2023, com um preço de varejo de $ 130."],
+            "category": "sneaker",
+            "tags": ["nike", "dunk", "dunk sb", "dunk sb low", "jarritos"]
+        },
+        {
+            "id": "6",
+            "modelo": "Jordan 1 Retro Low OG SP",
+            "nome": "Travis Scott Black Phantom",
+            "linkImgBase": "https://images.stockx.com/360/Air-Jordan-1-Retro-Low-OG-SP-Travis-Scott-Black-Phantom/Images/Air-Jordan-1-Retro-Low-OG-SP-Travis-Scott-Black-Phantom/Lv2/img01.jpg?fm=webp&auto=compress&w=576&dpr=1&updated_at=1671636316&h=384&q=57",
+            "style": "DM7866-001",
+            "price": "403",
+            "colorway": "BLACK/PHANTOM-ALE BROWN-RACER BLUE-TEAM ORANGE",
+            "retailPrice": "150",
+            "releaseDate": "12/15/2022",
+            "includedAccessories": "2 BLACK BANDANAS, RED LACES, BLACK & WHITE LACES, BLACK CACTUS JACK BOX SLEEVE",
+            "productDescription": ["Travis Scott fechou 2022 com o retorno de sua assinatura Jordan 1 Low, desta vez em uma nova combinação de cores Black Phantom.", "A silhueta voltou com sua assinatura Nike Swoosh para trás, mas com um novo design de costura contrastante. Os tênis nobuck pretos apresentam um logotipo Nike Air na língua e um logotipo Air Jordan Wings na aba direita do calcanhar. Cadarços vermelho, preto e branco/preto estão incluídos e uma abelha bordada está localizada na aba do calcanhar do tênis esquerdo inspirado na filha de Travis, Stormi.","O Air Jordan 1 Retro Low OG SP Travis Scott Black Phantom foi lançado em 15 de dezembro de 2022 com um preço de varejo de $ 150."],
+            "category": "sneaker",
+            "tags": [
+                "nike",
+                "jordan",
+                "jordan 1",
+                "jordan 1 low",
+                "travis scott",
+                "cactus jack",
+                "phantom"
+            ]
+        },
+        {
+            "id": "7",
+            "modelo": "Jordan 1 Retro High OG",
+            "nome": "Chicago Lost and Found",
+            "linkImgBase": "https://images.stockx.com/360/Air-Jordan-1-Retro-High-OG-Chicago-Reimagined/Images/Air-Jordan-1-Retro-High-OG-Chicago-Reimagined/Lv2/img01.jpg?fm=webp&auto=compress&w=576&dpr=1&updated_at=1665692308&h=384&q=57",
+            "style": "DZ5485-612",
+            "price": "374",
+            "colorway": "VARSITY RED/BLACK-SAIL-MUSLIN",
+            "retailPrice": "180",
+            "releaseDate": "11/19/2022",
+            "includedAccessories": "WHITE EXTRA LACES, BLACK EXTRA LACES, SPECIAL PAPER",
+            "productDescription": ["A combinação de cores do original Air Jordan 1 Chicago foi introduzido pela primeira vez em 1985 e só foi reútilizada algumas vezes desde então. Mas 2022 é o ano em que a combinação de cores retorna com um visual vintage adicional. Um meio amarelo acentuado e cabedal de couro rachado exibem uma aparência manufaturada de idade e desgaste. O Air Jordan 1 Lost and Found Chicago foi lançado em novembro de 2022 por US $ 180."],
+            "category": "sneaker",
+            "tags": [
+                "nike",
+                "jordan",
+                "jordan 1",
+                "jordan 1 high",
+                "lost and found",
+                "chicago"
+            ]
+        },
+        {
+            "id": "8",
+            "modelo": "Jordan 1 Retro High",
+            "nome": "Dark Mocha",
+            "linkImgBase": "https://images.stockx.com/360/Air-Jordan-1-Retro-High-Dark-Mocha/Images/Air-Jordan-1-Retro-High-Dark-Mocha/Lv2/img01.jpg?fm=webp&auto=compress&w=576&dpr=1&updated_at=1635345732&h=384&q=57",
+            "style": "555088-105",
+            "price": "334",
+            "colorway": "SAIL/DARK MOCHA-BLACK-BLACK",
+            "retailPrice": "170",
+            "releaseDate": "10/31/2020",
+            "includedAccessories": "SAIL LACES",
+            "productDescription": ["A Jordan Brand continuou seu tema de design Black Toe em 2020 e lançou o Jordan 1 High Dark Mocha, agora disponível no Florida Sneakers. O Dark Mocha 1 foi um dos lançamentos mais esperados em 2020 devido ao seu conhecido colorblocking que fazia referência a dois dos maiores Jordan 1s de todos os tempos, o Jordan 1 Travis Scott e o Jordan 1 Black Toe.", "A parte superior do Jordan 1 High Dark Mocha apresenta uma base de couro Sail com couro preto ao redor da biqueira e camurça Mocha no calcanhar e no tornozelo. Um Swoosh de couro preto, o logotipo Jordan Wings no tornozelo e a marca Nike Air na língua prestam homenagem à marca que pode ser encontrada no Jordan 1 original de 1985. Uma entressola Sail e uma sola preta completam este design Black Toe.","O Jordan 1 High Dark Mocha foi lançado em outubro de 2020 e vendido por $ 175."],
+            "category": "sneaker",
+            "tags": ["nike", "jordan", "jordan 1", "jordan 1 high", "mocha"]
+        },
+        {
+            "id": "9",
+            "modelo": "Jordan 1 Retro Low OG SP",
+            "nome": "Fragment x Travis Scott",
+            "linkImgBase": "https://images.stockx.com/360/Air-Jordan-1-High-OG-SP-fragment-design-x-Travis-Scott/Images/Air-Jordan-1-High-OG-SP-fragment-design-x-Travis-Scott/Lv2/img01.jpg?fm=webp&auto=compress&w=576&dpr=1&updated_at=1635344578&h=384&q=57",
+            "price": "982",
+            "style": "DM7866-140",
+            "colorway": "WHITE/BLACK-ROYAL- SAIL",
+            "retailPrice": "150",
+            "releaseDate": "08/13/2021",
+            "includedAccessories": "BLACK EXTRA LACES, PINK EXTRA LACES, BLUE EXTRA LACES, PLASTIC SLEEVES, PINK SPECIAL PAPER",
+            "productDescription": ["O Air Jordan 1 Low Fragment Design x Travis Scott é inspirado no Air Jordan 1 Fragment original de 2016 com seu bloqueio de cores simples. Possui uma parte superior de couro branco liso com sobreposições de couro preto e azul royal. A partir daí, um Swoosh invertido exclusivo e solas amareladas adicionam um toque de Cactus Jack à silhueta clássica.", "O Air Jordan 1 Low Fragment Design x Travis Scott foi lançado em agosto de 2021 e vendido por US $ 150."],
+            "category": "sneaker",
+            "tags": [
+                "nike",
+                "jordan",
+                "jordan 1",
+                "jordan 1 low",
+                "Fragment",
+                "travis scott",
+                "cactus jack"
+            ]
+        },
+        {
+            "id": "10",
+            "modelo": "Jordan 1 Retro High",
+            "nome": "Court Purple",
+            "linkImgBase": "https://images.stockx.com/360/Air-Jordan-1-Retro-High-Court-Purple/Images/Air-Jordan-1-Retro-High-Court-Purple/Lv2/img01.jpg?fm=webp&auto=compress&w=576&dpr=1&updated_at=1634932746&h=384&q=57",
+            "price": "375",
+            "style": "555088-501",
+            "colorway": "COURT PURPLE/BLACK-SAIL",
+            "retailPrice": "160",
+            "releaseDate": "09/22/2018",
+            "includedAccessories": "PURPLE LACES",
+            "productDescription": ["O que atende tanto a realeza quanto o novato do ano da NBA em 1985? O Air Jordan 1 Retro High Court roxo. Apresentando um toque mágico de cor, estes sapatos têm cabedal de couro em preto, vela e roxo. Mostrando semelhanças com o 'Bred Toe', o Air Jordan 1 Retro tem um 'Swoosh' preto com entressola branca e solado roxo. Esta silhueta foi lançada em setembro de 2018 e vendida por $ 160. Se você deseja adicionar à sua coleção de tênis, coloque um Ask ou um lance no Florida Sneakers."],
+            "category": "sneaker",
+            "tags": [
+                "nike",
+                "jordan",
+                "jordan 1",
+                "jordan 1 high",
+                "court purple"
+            ]
+        },
+        {
+            "id": "11",
+            "modelo": "Jordan 1 Retro High",
+            "nome": "Obsidian UNC",
+            "linkImgBase": "https://images.stockx.com/360/Air-Jordan-1-Retro-High-UNC-Leather/Images/Air-Jordan-1-Retro-High-UNC-Leather/Lv2/img01.jpg?fm=webp&auto=compress&w=576&dpr=1&updated_at=1634937628&h=384&q=57",
+            "price": "299",
+            "style": "555088-140",
+            "colorway": "SAIL/OBSIDIAN-UNIVERSITY BLUE",
+            "retailPrice": "160",
+            "releaseDate": "08/31/2019",
+            "includedAccessories": "UNC LACES",
+            "productDescription": ["A Jordan Brand adiciona uma nova combinação de cores à sua série de lançamentos do Jordan 1 com o Air Jordan 1 'Obsidian / University Blue', agora disponível no Florida Sneakers. Desde sua estreia em 1985, o Air Jordan 1 tem sido um monumento cultural, quebrando barreiras entre a quadra e as ruas. Jordan Brand continuou a lançar uma nova luz sobre esta silhueta atemporal e o faz com este lançamento.", "Este AJ 1 apresenta um design semelhante ao 'UNC Patent' 1 lançado em fevereiro de 2019, só que desta vez a combinação de cores recebe um tratamento completo de couro. Este tênis foi lançado em agosto de 2019 e custa US$ 160."],
+            "category": "sneaker",
+            "tags": [
+                "nike",
+                "jordan",
+                "jordan 1",
+                "jordan 1 high",
+                "obsidian unc"
+            ]
+        },
+        {
+            "id": "12",
+            "modelo": "Jordan 1 Retro High OG SP",
+            "nome": "Mocha Travis Scott",
+            "linkImgBase": "https://images.stockx.com/360/Air-Jordan-1-Retro-High-Travis-Scott/Images/Air-Jordan-1-Retro-High-Travis-Scott/Lv2/img01.jpg?fm=webp&auto=compress&w=576&dpr=1&updated_at=1635191289&h=384&q=57",
+            "price": "1.335",
+            "style": "CD4487-100",
+            "colorway": "SAIL/BLACK-DARK MOCHA-UNIVERSITY RED",
+            "retailPrice": "175",
+            "releaseDate": "05/11/2019",
+            "includedAccessories": "PINK LACES, RED LACES, SAIL LACES, BROWN LACES, PINK CACTUS JACK PAPER",
+            "productDescription": [
+                {
+                    "id" : 1,
+                    "name" :"O primeiro lançamento como parte da parceria monumental de Travis Scott com a Nike, o Air Jordan 1 Travis Scott quebra as regras convencionais do design do Air Jordan 1. Para começar, os Swooshes laterais são invertidos, cada um voltado para o dedo do pé. As etiquetas de língua tecidas são deslocadas e costuradas na lateral da língua em vez de na parte superior. Além disso, na gola, há um bolso escondido. Um design único para um artista único."
+                },
+                {
+                    "id": 2,
+                    "name" : "O Air Jordan 1 Travis Scott apresenta cabedal de couro branco com sobreposições de camurça Mocha e Swooshes invertidos de couro preto. Toques de vermelho na língua contrastam ligeiramente com os tons de terra do design. No calcanhar, um logotipo Cactus Jack em relevo adiciona uma sensação personalizada. A partir daí, uma entressola amarelada e uma sola Mocha combinando completam o design."
+                },
+                {
+                    "id": 3,
+                    "name" : "O Jordan 1 Travis Scott Mocha foi lançado em maio de 2019 e vendido por US$ 175."
+                }
+            ],
+            "category": "sneaker",
+            "tags": [
+                "nike",
+                "jordan",
+                "jordan 1",
+                "jordan 1 high",
+                "mocha",
+                "cactus jack",
+                "travis scott"
+            ]
+        },
+        {
+            "id": "13",
+            "modelo": "Jordan 1 Retro High",
+            "nome": "Pine Green Black",
+            "linkImgBase": "https://images.stockx.com/360/Air-Jordan-1-Retro-High-Pine-Green-Black/Images/Air-Jordan-1-Retro-High-Pine-Green-Black/Lv2/img01.jpg?fm=webp&auto=compress&w=576&dpr=1&updated_at=1635269677&h=384&q=57",
+            "price": "231",
+            "style": "555088-030",
+            "colorway": "BLACK/PINE GREEN-WHITE-GYM RED",
+            "retailPrice": "170",
+            "releaseDate": "02/29/2020",
+            "includedAccessories": "RED LACES",
+            "productDescription": ["A Jordan Brand adicionou novas cores a uma silhueta clássica com o Jordan 1 Retro High Pine Green Black, agora disponível na Florida Sneakers. Esta combinação de cores se inspira no Jordan 1 Retro High Pine Green de 2019, só que desta vez toda a parte superior apresenta tons de preto e verde pinho.", "Este Jordan 1 High é composto por uma parte superior de couro preto com sobreposições de couro verde. Uma etiqueta de língua bordada Gym Red, entressola de vela e sola verde pinho completam este design. Esses tênis foram lançados em fevereiro de 2020 e vendidos por US $ 170."],
+            "category": "sneaker",
+            "tags": [
+                "nike",
+                "jordan",
+                "jordan 1",
+                "jordan 1 high",
+                "pine green"
+            ]
+        },
+        {
+            "id": "14",
+            "modelo": "Jordan 1 Retro High",
+            "nome": "J Balvin",
+            "linkImgBase": "https://images.stockx.com/360/Air-Jordan-1-Retro-High-J-Balvin/Images/Air-Jordan-1-Retro-High-J-Balvin/Lv2/img01.jpg?fm=webp&auto=compress&w=576&dpr=1&updated_at=1635279421&h=384&q=57",
+            "price": "270",
+            "style": "DC3481-900",
+            "colorway": "MULTI-COLOR/BLACK-PINK FOAM-MULTI-COLOR",
+            "retailPrice": "190",
+            "releaseDate": "12/08/2020",
+            "includedAccessories": "WHITE LACES, NEON LACES, SOFT PINK LACES, 1 SMILEY PATCH, 1 JUMPMAN PATCH, 2 LIGHTNING PATCHES, 2 BASKETBALL PATCHES, J BALVIN BOX PAPER",
+            "productDescription": ["Durante a apresentação do intervalo no Super Bowl LIV, a sensação latina J Balvin revelou um par de Jordan 1s tie-dye que o mundo nunca tinha visto antes. Então, em dezembro de 2020, J Balvin e Jordan Brand ficaram psicodélicos e lançaram o Air Jordan 1 High J Balvin.","O Air Jordan 1 High J Balvin apresenta um cabedal de lona tie-dye em camadas com bordas irregulares projetadas para expor remendos de couro preto sólido. As línguas de espuma expostas dão uma sensação vintage ao sapato, enquanto os remendos de velcro no calcanhar representando as insígnias de Jordan e J Balvin fornecem aos usuários a liberdade de personalizar seu par. Uma sola rosa claro e o logotipo do rosto sorridente de J Balvin na língua e palmilha adicionam os toques finais a este Jordan 1 único.","O Jordan 1 High J Balvin foi lançado em dezembro de 2020 e vendido por $ 190."] ,
+            "category": "sneaker",
+            "tags": [
+                "nike",
+                "jordan",
+                "jordan 1",
+                "jordan 1 high",
+                "j balvin",
+                "balvin"
+            ]
+        },
+        {
+            "id": "15",
+            "modelo": "Jordan 1 Retro High",
+            "nome": "Shadow (2018)",
+            "linkImgBase": "https://images.stockx.com/360/Air-Jordan-1-Retro-High-Shadow-2018/Images/Air-Jordan-1-Retro-High-Shadow-2018/Lv2/img01.jpg?fm=webp&auto=compress&w=576&dpr=1&updated_at=1635282940&h=384&q=57",
+            "price": "370",
+            "style": "555088-013",
+            "colorway": "BLACK/MEDIUM GREY-WHITE",
+            "retailPrice": "160",
+            "releaseDate": "04/14/2018",
+            "includedAccessories": "GREY LACES",
+            "productDescription": ["Apesar do nome, o Air Jordan 1 Shadows é um par que colocará você no centro das atenções. Este raro OG colorway já chegou às prateleiras apenas três vezes, tornando-o obrigatório para qualquer colecionador de AJ1. O sapato apresenta uma parte superior de couro preto e cinza com a marca original 'Nike Air' na língua e nas palmilhas, juntamente com uma entressola branca e sola preta. Saindo em abril de 2018, eles foram lançados em tamanhos masculinos e escolares. Faça um lance no Florida Sneakers hoje para colocar seu próprio par de sombras."],
+            "category": "sneaker",
+            "tags": ["nike", "jordan", "jordan 1", "jordan 1 high", "shadow"]
+        }
+    ],
+    "banners": [
+        {
+            "id": 1,
+            "img": "https://images-cs.stockx.com/v3/assets/blt818b0c67cf450811/bltc5ca17161146a066/646fa9bb80a2484da9a7c620/Memorial_Day_DealsPrimary_Mobile.jpg?quality=80&auto=webp&format=pjpg&dpr=1",
+            "link": ""
+        },
+        {
+            "id": 2,
+            "img": "https://images-cs.stockx.com/v3/assets/blt818b0c67cf450811/blt6434800a59118f05/646f8f9aaf1a686ae7460490/Supreme_SS23_Week_12.psdPrimary_Mobile.jpg?quality=80&auto=webp&format=pjpg&dpr=1",
+            "link": ""
+        },
+        {
+            "id": 3,
+            "img": "https://images-cs.stockx.com/v3/assets/blt818b0c67cf450811/blt6dadf22a377902d4/646b7bd6fa7cb7bc0bf64e81/2_Primary_US_Dunk_Low_Seller_Fee_Mobile.jpg?quality=75&auto=webp&format=pjpg&dpr=2",
+            "link": ""
+        },
+        {
+            "id": 4,
+            "img": "https://images-cs.stockx.com/v3/assets/blt818b0c67cf450811/blt5c7f083413fd60d7/646cc4f4168829d1186d657c/Summer_Campaign_LP_Primary_Mobile.png?quality=75&auto=webp&format=pjpg&dpr=2",
+            "link": ""
+        }
+    ]
+}
